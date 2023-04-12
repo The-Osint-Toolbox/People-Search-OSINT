@@ -4,6 +4,8 @@
  <li><a href="https://192.com/">192.com</a></li>
  <li><a href="https://thephonebook.bt.com/person/">BT Phonebook</a></li>
  <li><a href="https://fastpeoplesearch.com/">Fast People Search</a></li>
+ <li><a href="https://www.familysearch.org/en/">Family Search</a></li>
+   <p>FamilySearch resources help millions of people around the world discover their heritage and connect with family members</p>
  <li><a href="https://foller.me/">Foller</a></li>
  <li><a href="https://locatefamily.com/">Locate Family</a></li>
  <li><a href="https://peekyou.com/">Peek You</a></li>
