@@ -14,6 +14,8 @@
  <li><a href="https://thatsthem.com/">That's Them</a></li>
  <li><a href="https://skymem.info/">Skymem</a></li>
  <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>
+ <li><a href="https://www.spytox.com/">Spytox</a></li>
+  <p>Find people, personal info & phone numbers.</p>
  <li><a href="https://ukphonebook.com/">UK Phonebook</a></li>
  <li><a href="https://webmii.com/">Webmii</a></li>
  <li><a href="https://zabasearch.com/">Zaba Search</a></li>
