@@ -24,8 +24,9 @@
  <li><a href="https://search.illicit.services/">Search Illicit</a></li>
   <p>Dataset website for researching peoples details.</p>
  <li><a href="https://skymem.info/">Skymem</a></li>
-  <p>Find email addresses of companies and people</p> 
+  <p>Find email addresses of companies and people.</p> 
  <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>
+  <p> Social Media Search Engine. It allows to search for content in social networks.</p>
  <li><a href="https://www.spytox.com/">Spytox</a></li>
   <p>Find people, personal info & phone numbers.</p>
  <li><a href="https://thatsthem.com/">That's Them</a></li>
