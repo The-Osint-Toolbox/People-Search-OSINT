@@ -3,6 +3,7 @@
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
 <p>UK People search sites that are free, are few in number, generally becuase of GDPR. It is a lucrative business, Pipl is a prime example of a free service that as it gained in popularity, moved to a paid service. I have tried to only include free resourse or resource that will give a certain amount of information for free. A lot services are mainly US orientated because of the slack privacy laws in the US. This could change in the future as more States bring in GDPR like legislation.</p>
+<p>Many sites here will be data brokers that specializes in collecting personal data or data about companies, mostly from public records but sometimes sourced privately, and selling or licensing such information to third parties for a variety of uses.</p>
 <ul>
  <li><a href="https://192.com/">192.com</a></li>
   <P>UK Data Broker, information obtained from Companies Houses, Electoral Roll etc.</P>
@@ -29,5 +30,6 @@
  <li><a href="https://ukphonebook.com/">UK Phonebook</a></li>
   <P>UK Data Broker, information obtained from Companies Houses, Electoral Roll etc.</P>
  <li><a href="https://webmii.com/">Webmii</a></li>
+  <p>Webmii is a people search engine that helps you find all public information about people.</p>
  <li><a href="https://zabasearch.com/">Zaba Search</a></li>
 </ul>
