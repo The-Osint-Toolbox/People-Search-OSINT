@@ -38,3 +38,13 @@
  <li><a href="https://zabasearch.com/">Zaba Search</a></li>
   <p>People Search and Public Information Search Engine.</p>
 </ul>
+<br></br>
+<table>
+    <tr>
+        <td>Privacy Opt-Out</td>
+    </tr>
+</table>
+<p>If you have been searching these resources from a privacy perspective, I have created Repository with links to how you can remove your data from the above websites</p>
+<ul>
+    <li><a href="https://github.com/cqcore/Privacy-Opt-Out">Privacy Opt-Out Repository</a></li>
+</ul>
