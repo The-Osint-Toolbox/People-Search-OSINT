@@ -16,7 +16,9 @@
  <li><a href="https://foller.me/">Foller</a></li>
   <p>US free people search engine finds social media profiles, public records.</p>
  <li><a href="https://www.genesreunited.co.uk/articles/world-records/full-list-of-united-kingdom-records/census-land-and-surveys/electoral-rolls">Genes Reunited</a></li>
-  <p>UK Electoral-Rolls</p>
+  <p>UK Electoral-Rolls.</p>
+ <li><a href="https://golookup.com/">Go Lookup</a></li>
+  <p>Find people online: phone numbers, addresses, emails & social media accounts.</p>
  <li><a href="https://locatefamily.com/">Locate Family</a></li>
   <p>People-search website that collects personal data such as first and last names, addresses, phone numbers.</p>
  <li><a href="https://www.numlookup.com/people-search">NumLookup</a></li>
