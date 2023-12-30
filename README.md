@@ -23,6 +23,8 @@
   <p>Find people online: phone numbers, addresses, emails & social media accounts.</p>
  <li><a href="https://locatefamily.com/">Locate Family</a></li>
   <p>People-search website that collects personal data such as first and last names, addresses, phone numbers.</p>
+ <li><a href="https://www.namesandfacts.com/">Names And Facts</a></li>
+  <p>US orientated people search website.</p> 
  <li><a href="https://www.numlookup.com/people-search">NumLookup</a></li>
   <p>You can uncover valuable details about individuals, including contact information, social media profiles, professional background, and more. US orientated.</p>
  <li><a href="https://nuwber.com/">Nuwber</a></li>
