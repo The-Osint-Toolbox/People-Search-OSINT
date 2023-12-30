@@ -25,6 +25,8 @@
   <p>People-search website that collects personal data such as first and last names, addresses, phone numbers.</p>
  <li><a href="https://www.numlookup.com/people-search">NumLookup</a></li>
   <p>You can uncover valuable details about individuals, including contact information, social media profiles, professional background, and more. US orientated.</p>
+ <li><a href="https://nuwber.com/">Nuwber</a></li>
+  <p>US orientated people search website.</p>
  <li><a href="https://peekyou.com/">Peek You</a></li>
   <p>PeekYou is a people search engine that indexes people and their links on the web.</p>
  <li><a href="https://search.reversepp.com/">Reversepp</a></li>  
