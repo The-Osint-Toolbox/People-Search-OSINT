@@ -33,8 +33,6 @@
   <p>PeekYou is a people search engine that indexes people and their links on the web.</p>
  <li><a href="https://search.reversepp.com/">Reversepp</a></li>  
   <p>ReversePP is an ongoing project to index UK planning permission data for OSINT Investigators, Property Developers and Homebuyers.</p>
- <li><a href="https://search.0t.rocks/">Search 0t Rocks</a></li>
-  <p>Dataset website for researching peoples details.</p>
  <li><a href="https://skymem.info/">Skymem</a></li>
   <p>Find email addresses of companies and people.</p> 
  <li><a href="https://www.social-searcher.com/">Social Searcher</a></li>
