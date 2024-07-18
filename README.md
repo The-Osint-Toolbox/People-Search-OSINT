@@ -11,10 +11,10 @@
   <p>US free people search resource.</p>
  <li><a href="https://thephonebook.bt.com/person/">BT Phonebook</a></li>
   <p>Offical UK listed phonenumber.s</p>
- <li><a href="https://fastpeoplesearch.com/">Fast People Search</a></li>
-  <p>Find a person by name, phone number, or street address.</p>
  <li><a href="https://www.classmates.com/">Classmates</a></li> 
   <p>Search the largest directory of US high school and class lists,</p>
+ <li><a href="https://fastpeoplesearch.com/">Fast People Search</a></li>
+  <p>Find a person by name, phone number, or street address.</p>
  <li><a href="https://toolbox.google.com/factcheck/explorer">Fact Check Explorer</a></li>  
   <p>Search fact checks about a topic or person.</p>
  <li><a href="https://www.familysearch.org/en/">Family Search</a></li>
