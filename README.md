@@ -25,6 +25,8 @@
   <p>Find people online: phone numbers, addresses, emails & social media accounts.</p>
  <li><a href="https://www.idstrong.com/">Id Strong</a></li> 
   <p>US focused site people search tool.</p>
+ <li><a href="https://www.intelius.com/">Intelius</a></li> 
+  <p>Data Broker person search tool.</p>
  <li><a href="https://locatefamily.com/">Locate Family</a></li>
   <p>People-search website that collects personal data such as first and last names, addresses, phone numbers.</p>
  <li><a href="https://www.namesandfacts.com/">Names And Facts</a></li>
