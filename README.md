@@ -53,6 +53,8 @@
   <p>ThatsThem is a data broker website that collects personal information.</p>
  <li><a href="http://truepeoplesearch.com/">True People Search</a></li>
   <p>This site lets you find people by name, number, and address, and includes those details plus email addresses.</p>
+ <li><a href="https://www.truthfinder.com/">TruthFinder</a></li> 
+  <p>Discover social media, photos, police records, ackground checks, civil Judgments, contact information.</p>
  <li><a href="https://ukphonebook.com/">UK Phonebook</a></li>
   <P>UK Data Broker, information obtained from Companies Houses, Electoral Roll etc.</P>
  <li><a href="https://webmii.com/">Webmii</a></li>
