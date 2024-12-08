@@ -33,8 +33,8 @@
   <p>Data Broker person search tool.</p>
  <li><a href="https://locatefamily.com/">Locate Family</a></li>
   <p>People-search website that collects personal data such as first and last names, addresses, phone numbers.</p>
- <li><a href="https://manhom.com/">Manhom</a></li> 
-  <p>Database of Arab personalities and institutions.</p>
+ <li><a href="https://manhom.com/">Manhom</a></li>
+  <p>Database of Arab personalities and institutions.</p>
  <li><a href="https://www.namesandfacts.com/">Names And Facts</a></li>
   <p>US orientated people search website.</p> 
  <li><a href="https://www.numlookup.com/people-search">NumLookup</a></li>
