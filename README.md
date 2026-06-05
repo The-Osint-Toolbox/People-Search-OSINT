@@ -23,6 +23,8 @@
   <p>Search fact checks about a topic or person.</p>
  <li><a href="https://www.familysearch.org/en/">Family Search</a></li>
    <p>Family Search resources help millions of people around the world discover their heritage and connect with family members</p>
+ <li><a href="https://www.finalnotes.page/obituary-research-guide/">FinalNotes Obituary Research Guide</a></li>
+   <p>Guide for finding obituary records, preserving source trails, and using obituary clues in sourced family-history research.</p>
  <li><a href="https://foller.me/">Foller</a></li>
   <p>US free people search engine finds social media profiles, public records.</p>
  <li><a href="https://www.genesreunited.co.uk/articles/world-records/full-list-of-united-kingdom-records/census-land-and-surveys/electoral-rolls">Genes Reunited</a></li>
