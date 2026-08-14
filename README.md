@@ -81,4 +81,5 @@
 <p>If you have been searching these resources from a privacy perspective, I have created a Repository with links to how you can remove your data from the above websites.</p>
 <ul>
     <li><a href="https://github.com/cqcore/Privacy-Opt-Out">Privacy Opt-Out Repository</a></li>
+<li><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a> - Independent X (Twitter) data API for search, follower export, monitors, and MCP.</li>
 </ul>
