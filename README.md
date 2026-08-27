@@ -47,6 +47,8 @@
   <p>You can uncover valuable details about individuals, including contact information, social media profiles, professional background, and more. US orientated.</p>
  <li><a href="https://nuwber.com/">Nuwber</a></li>
   <p>US orientated people search website.</p>
+ <li><a href="https://offendersearch.app/">Offendersearch</a></li>
+  <p>US sex offender search across 58 registries — the 50 states, DC and US territories — in one query; scored results with links to the official record.</p>
  <li><a href="https://peekyou.com/">Peek You</a></li>
   <p>PeekYou is a people search engine that indexes people and their links on the web.</p>
  <li><a href="https://www.peoplefinders.com/">PeopleFinder</a></li>
