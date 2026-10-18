@@ -69,6 +69,8 @@
   <P>UK Data Broker, information obtained from Companies Houses, Electoral Roll etc.</P>
  <li><a href="https://webmii.com/">Webmii</a></li>
   <p>Webmii is a people search engine that helps you find all public information about people.</p>
+ <li><a href="https://whatsmynameapps.us/">WhatsMyName Apps</a> (<a href="https://play.google.com/store/apps/details?id=whatsmyname.app.us">Android</a>)</li>
+  <p>Free browser-based public username search, without registration. Global account-discovery leads; manually verify candidate profiles. Independent of the original WhatsMyName project.</p>
  <li><a href="https://zabasearch.com/">Zaba Search</a></li>
   <p>People Search and Public Information Search Engine.</p>
 </ul>
