@@ -16,7 +16,10 @@
  <li><a href="https://www.classmates.com/">Classmates</a></li> 
   <p>Search the largest directory of US high school and class lists.</p>
  <li><a href="https://contactout.com/">Contact Out</a></li>
-  <p>Find emails & phone for 300M professionals.</p>
+  <p>Find emails & phone for 300M professionals.</p> 
+ <li><a href="https://deepsearch.tools/">DeepSearch</a></li>
+  <p>Name-based people search with a free candidate-list preview and paid full reports.</p>
+
  <li><a href="https://fastpeoplesearch.com/">Fast People Search</a></li>
   <p>Find a person by name, phone number, or street address.</p>
  <li><a href="https://toolbox.google.com/factcheck/explorer">Fact Check Explorer</a></li>  
