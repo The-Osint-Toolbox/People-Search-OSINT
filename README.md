@@ -66,6 +66,8 @@
   <p>Find people, personal info & phone numbers.</p>
  <li><a href="https://thatsthem.com/">That's Them</a></li>
   <p>ThatsThem is a data broker website that collects personal information.</p>
+ <li><a href="https://tracefind.info/">TraceFind</a></li>
+  <p>OSINT lookup for people, emails, phone numbers and usernames: linked accounts, social profiles and data breaches, without notifying the person.</p>
  <li><a href="http://truepeoplesearch.com/">True People Search</a></li>
   <p>This site lets you find people by name, number, and address, and includes those details plus email addresses.</p>
  <li><a href="https://www.truthfinder.com/">TruthFinder</a></li>
